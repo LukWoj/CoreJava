@@ -1,2 +1,2 @@
 # CoreJava
-Small Java SE appliations. Learning ato home
+Small Java SE appliations. Learning at home
